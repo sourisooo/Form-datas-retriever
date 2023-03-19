@@ -1,0 +1,424 @@
+{
+  "datas": [
+    {
+      "type": "textarea",
+      "value": "",
+      "idi": "opinion",
+      "Date": "2023-03-19T18:55:13.064Z",
+      "id": 1
+    },
+    {
+      "type": "radio",
+      "value": "F",
+      "idi": "sexe2",
+      "Date": "2023-03-19T18:55:45.051Z",
+      "id": 2
+    },
+    {
+      "type": "text",
+      "value": "",
+      "idi": "nom",
+      "Date": "2023-03-19T18:55:45.884Z",
+      "id": 3
+    },
+    {
+      "type": "radio",
+      "value": "M",
+      "idi": "sexe1",
+      "Date": "2023-03-19T18:55:47.097Z",
+      "id": 4
+    },
+    {
+      "type": "text",
+      "value": "",
+      "idi": "nom",
+      "Date": "2023-03-19T18:55:49.626Z",
+      "id": 5
+    },
+    {
+      "type": "radio",
+      "value": "Passion",
+      "idi": "op1",
+      "Date": "2023-03-19T18:55:50.628Z",
+      "id": 6
+    },
+    {
+      "type": "radio",
+      "value": "Policier",
+      "idi": "op2",
+      "Date": "2023-03-19T18:55:51.166Z",
+      "id": 7
+    },
+    {
+      "type": "radio",
+      "value": "Fiction",
+      "idi": "op3",
+      "Date": "2023-03-19T18:55:52.464Z",
+      "id": 8
+    },
+    {
+      "type": "radio",
+      "value": "Aventure",
+      "idi": "op4",
+      "Date": "2023-03-19T18:55:54.138Z",
+      "id": 9
+    },
+    {
+      "type": "radio",
+      "value": "Autres",
+      "idi": "op5",
+      "Date": "2023-03-19T18:55:55.616Z",
+      "id": 10
+    },
+    {
+      "type": "select-one",
+      "value": ">1",
+      "idi": "Fréquence",
+      "Date": "2023-03-19T18:55:57.578Z",
+      "id": 11
+    },
+    {
+      "type": "select-one",
+      "value": "1",
+      "idi": "Fréquence",
+      "Date": "2023-03-19T18:56:01.197Z",
+      "id": 12
+    },
+    {
+      "type": "textarea",
+      "value": "",
+      "idi": "opinion",
+      "Date": "2023-03-19T18:56:03.703Z",
+      "id": 13
+    },
+    {
+      "type": "text",
+      "value": "",
+      "idi": "nom",
+      "Date": "2023-03-19T18:56:06.898Z",
+      "id": 14
+    },
+    {
+      "type": "text",
+      "value": "",
+      "idi": "nom",
+      "Date": "2023-03-19T18:56:09.843Z",
+      "id": 15
+    },
+    {
+      "type": "textarea",
+      "value": "",
+      "idi": "opinion",
+      "Date": "2023-03-19T18:56:21.730Z",
+      "id": 16
+    },
+    {
+      "type": "textarea",
+      "value": "",
+      "idi": "opinion",
+      "Date": "2023-03-19T18:56:27.041Z",
+      "id": 17
+    },
+    {
+      "type": "text",
+      "value": "",
+      "idi": "nom",
+      "Date": "2023-03-19T18:56:28.236Z",
+      "id": 18
+    },
+    {
+      "type": "textarea",
+      "value": "",
+      "idi": "opinion",
+      "Date": "2023-03-19T18:57:02.551Z",
+      "id": 19
+    },
+    {
+      "type": "text",
+      "value": "",
+      "idi": "nom",
+      "Date": "2023-03-19T18:57:08.810Z",
+      "id": 20
+    },
+    {
+      "type": "radio",
+      "value": "F",
+      "idi": "sexe2",
+      "Date": "2023-03-19T18:57:13.523Z",
+      "id": 21
+    },
+    {
+      "type": "radio",
+      "value": "M",
+      "idi": "sexe1",
+      "Date": "2023-03-19T18:57:17.493Z",
+      "id": 22
+    },
+    {
+      "type": "text",
+      "value": "",
+      "idi": "nom",
+      "Date": "2023-03-19T18:57:19.157Z",
+      "id": 23
+    },
+    {
+      "type": "radio",
+      "value": "Passion",
+      "idi": "op1",
+      "Date": "2023-03-19T18:57:23.631Z",
+      "id": 24
+    },
+    {
+      "type": "radio",
+      "value": "Aventure",
+      "idi": "op4",
+      "Date": "2023-03-19T18:57:30.975Z",
+      "id": 25
+    },
+    {
+      "type": "radio",
+      "value": "Autres",
+      "idi": "op5",
+      "Date": "2023-03-19T18:57:33.334Z",
+      "id": 26
+    },
+    {
+      "type": "radio",
+      "value": "Policier",
+      "idi": "op2",
+      "Date": "2023-03-19T18:57:35.574Z",
+      "id": 27
+    },
+    {
+      "type": "radio",
+      "value": "Fiction",
+      "idi": "op3",
+      "Date": "2023-03-19T18:57:37.231Z",
+      "id": 28
+    },
+    {
+      "type": "radio",
+      "value": "Aventure",
+      "idi": "op4",
+      "Date": "2023-03-19T18:57:38.811Z",
+      "id": 29
+    },
+    {
+      "type": "radio",
+      "value": "Fiction",
+      "idi": "op3",
+      "Date": "2023-03-19T18:57:41.603Z",
+      "id": 30
+    },
+    {
+      "type": "radio",
+      "value": "Policier",
+      "idi": "op2",
+      "Date": "2023-03-19T18:57:42.451Z",
+      "id": 31
+    },
+    {
+      "type": "radio",
+      "value": "Passion",
+      "idi": "op1",
+      "Date": "2023-03-19T18:57:43.175Z",
+      "id": 32
+    },
+    {
+      "type": "radio",
+      "value": "Policier",
+      "idi": "op2",
+      "Date": "2023-03-19T18:57:45.198Z",
+      "id": 33
+    },
+    {
+      "type": "radio",
+      "value": "Fiction",
+      "idi": "op3",
+      "Date": "2023-03-19T18:57:50.721Z",
+      "id": 34
+    },
+    {
+      "type": "radio",
+      "value": "Aventure",
+      "idi": "op4",
+      "Date": "2023-03-19T18:57:51.890Z",
+      "id": 35
+    },
+    {
+      "type": "radio",
+      "value": "Autres",
+      "idi": "op5",
+      "Date": "2023-03-19T18:57:52.473Z",
+      "id": 36
+    },
+    {
+      "type": "radio",
+      "value": "Aventure",
+      "idi": "op4",
+      "Date": "2023-03-19T18:57:53.453Z",
+      "id": 37
+    },
+    {
+      "type": "radio",
+      "value": "Autres",
+      "idi": "op5",
+      "Date": "2023-03-19T18:57:54.347Z",
+      "id": 38
+    },
+    {
+      "type": "radio",
+      "value": "Aventure",
+      "idi": "op4",
+      "Date": "2023-03-19T18:57:55.125Z",
+      "id": 39
+    },
+    {
+      "type": "radio",
+      "value": "Fiction",
+      "idi": "op3",
+      "Date": "2023-03-19T18:57:56.059Z",
+      "id": 40
+    },
+    {
+      "type": "radio",
+      "value": "Policier",
+      "idi": "op2",
+      "Date": "2023-03-19T18:57:56.767Z",
+      "id": 41
+    },
+    {
+      "type": "radio",
+      "value": "Passion",
+      "idi": "op1",
+      "Date": "2023-03-19T18:57:58.199Z",
+      "id": 42
+    },
+    {
+      "type": "radio",
+      "value": "Policier",
+      "idi": "op2",
+      "Date": "2023-03-19T18:57:59.195Z",
+      "id": 43
+    },
+    {
+      "type": "text",
+      "value": "",
+      "idi": "nom",
+      "Date": "2023-03-19T18:58:03.956Z",
+      "id": 44
+    },
+    {
+      "type": "radio",
+      "value": "M",
+      "idi": "sexe1",
+      "Date": "2023-03-19T18:58:07.638Z",
+      "id": 45
+    },
+    {
+      "type": "text",
+      "value": "test",
+      "idi": "nom",
+      "Date": "2023-03-19T18:58:08.886Z",
+      "id": 46
+    },
+    {
+      "type": "radio",
+      "value": "M",
+      "idi": "sexe1",
+      "Date": "2023-03-19T18:58:10.392Z",
+      "id": 47
+    },
+    {
+      "type": "radio",
+      "value": "F",
+      "idi": "sexe2",
+      "Date": "2023-03-19T18:58:12.066Z",
+      "id": 48
+    },
+    {
+      "type": "text",
+      "value": "test",
+      "idi": "nom",
+      "Date": "2023-03-19T18:58:13.927Z",
+      "id": 49
+    },
+    {
+      "type": "radio",
+      "value": "F",
+      "idi": "sexe2",
+      "Date": "2023-03-19T18:58:15.146Z",
+      "id": 50
+    },
+    {
+      "type": "text",
+      "value": "test",
+      "idi": "nom",
+      "Date": "2023-03-19T18:58:15.755Z",
+      "id": 51
+    },
+    {
+      "type": "select-one",
+      "value": ">1",
+      "idi": "Fréquence",
+      "Date": "2023-03-19T18:58:17.186Z",
+      "id": 52
+    },
+    {
+      "type": "select-one",
+      "value": "1",
+      "idi": "Fréquence",
+      "Date": "2023-03-19T18:58:19.045Z",
+      "id": 53
+    },
+    {
+      "type": "select-one",
+      "value": "2",
+      "idi": "Fréquence",
+      "Date": "2023-03-19T18:58:30.434Z",
+      "id": 54
+    },
+    {
+      "type": "select-one",
+      "value": "2<",
+      "idi": "Fréquence",
+      "Date": "2023-03-19T18:58:35.283Z",
+      "id": 55
+    },
+    {
+      "type": "textarea",
+      "value": "",
+      "idi": "opinion",
+      "Date": "2023-03-19T18:58:42.952Z",
+      "id": 56
+    },
+    {
+      "type": "textarea",
+      "value": "testtextarea",
+      "idi": "opinion",
+      "Date": "2023-03-19T18:58:54.297Z",
+      "id": 57
+    },
+    {
+      "type": "textarea",
+      "value": "testtextarea",
+      "idi": "opinion",
+      "Date": "2023-03-19T18:58:56.228Z",
+      "id": 58
+    },
+    {
+      "type": "textarea",
+      "value": "{\"idi\":\"\",\"Date\":\"2023-03-19T18:58:54.942Z\"}",
+      "idi": "opinion",
+      "Date": "2023-03-19T18:58:57.689Z",
+      "id": 59
+    },
+    {
+      "type": "textarea",
+      "value": "{\"type\":\"textarea\",\"value\":\"{\\\"idi\\\":\\\"\\\",\\\"Date\\\":\\\"2023-03-19T18:58:54.942Z\\\"}\",\"idi\":\"opinion\",\"Date\":\"2023-03-19T18:58:57.689Z\"}",
+      "idi": "opinion",
+      "Date": "2023-03-19T18:59:06.568Z",
+      "id": 60
+    }
+  ]
+}
